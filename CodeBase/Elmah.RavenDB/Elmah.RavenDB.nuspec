@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Elmah.RavenDB.3</id>
-    <version>3.0.3528</version>
+    <version>3.0.6</version>
     <title>ELMAH on RavenDB 3</title>
     <authors>Christoph Keller, Greg Brant</authors>
     <owners>Greg Brant, Christoph Keller</owners>
@@ -16,7 +16,7 @@
     <tags>Elmah RavenDB</tags>
     <dependencies>
       <dependency id="elmah.corelibrary" version="1.2.2" />
-	    <dependency id="RavenDB.Client" version="[2,3)" />
+	    <dependency id="RavenDB.Client" version="[3.0.3528,]" />
 	</dependencies>
   </metadata>
 </package>
