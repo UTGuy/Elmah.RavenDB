@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Elmah.RavenDB</id>
-    <version>2.1.0</version>
-    <title>ELMAH on RavenDB</title>
+    <id>Elmah.RavenDB.3</id>
+    <version>3.0.3528</version>
+    <title>ELMAH on RavenDB 3</title>
     <authors>Christoph Keller, Greg Brant</authors>
     <owners>Greg Brant, Christoph Keller</owners>
     <licenseUrl>https://github.com/GregBrant/Elmah.RavenDB/blob/master/license.txt</licenseUrl>
